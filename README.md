@@ -27,5 +27,7 @@ Este projeto é apenas para fins de estudo e aprendizado.
 
 ### Recursos Adicionais
 [Documentação do Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/)
+
 [Documentação do Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql-vm)
+
 [Documentação do Azure Data Lake Gen2](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
