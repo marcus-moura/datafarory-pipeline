@@ -1,6 +1,4 @@
-# datafarory-pipeline
-
-# Projeto de Estudo sobre Azure Data Factory, Linked Service e Criação de Datasets
+# Projeto de Estudo sobre Azure Data Factory
 
 Este é um projeto de estudo sobre como utilizar o Azure Data Factory para orquestrar fluxos de dados entre diferentes fontes e destinos no Azure, incluindo Azure SQL Database e Azure Data Lake Gen2. O projeto contém código e configurações necessárias para criar pipelines de dados eficientes usando os componentes do Azure Data Factory, Linked Service e Datasets.
 
@@ -27,7 +25,7 @@ Antes de começar a trabalhar com este projeto, certifique-se de ter o seguinte:
 ### Avisos
 Este projeto é apenas para fins de estudo e aprendizado.
 
-Recursos Adicionais
+### Recursos Adicionais
 [Documentação do Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/)
-Documentação do Azure SQL Database
-Documentação do Azure Data Lake Gen2
+[Documentação do Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql-vm)
+[Documentação do Azure Data Lake Gen2](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
