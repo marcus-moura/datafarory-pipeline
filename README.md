@@ -12,7 +12,6 @@ O objetivo deste projeto é permitir que você compreenda como o Azure Data Fact
 3. Datasets: Representam conjuntos de dados que servem como entradas ou saídas para as atividades do pipeline. Os Datasets definem a estrutura dos dados, a localização e a forma como os dados serão acessados. Vamos criar Datasets para Azure SQL Database e Azure Data Lake Gen2.
 
 ## Pré-requisitos
-Antes de começar a trabalhar com este projeto, certifique-se de ter o seguinte:
 
 1. Conta do Azure: Você precisa ter uma conta ativa do Microsoft Azure para criar e configurar os recursos necessários.
 
@@ -26,8 +25,6 @@ Antes de começar a trabalhar com este projeto, certifique-se de ter o seguinte:
 Este projeto é apenas para fins de estudo e aprendizado.
 
 ### Recursos Adicionais
-[Documentação do Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/)
-
-[Documentação do Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql-vm)
-
-[Documentação do Azure Data Lake Gen2](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
+- [Documentação do Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/)
+- [Documentação do Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql-vm)
+- [Documentação do Azure Data Lake Gen2](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
